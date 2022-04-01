@@ -1,5 +1,5 @@
 # cache-minimalist
-## This a very simple key/value cache writed in golang
+## This a very simple key/value cache wrotedin golang
 
 ###### Step 1. Installing golang
 ###### Step2. Clone this repository
